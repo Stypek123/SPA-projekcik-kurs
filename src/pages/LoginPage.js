@@ -1,8 +1,10 @@
 import React from 'react';
 
+import '../styles/LoginPage.css';
+
 const LoginPage = () => {
   return (
-    <div>
+    <div className="login">
       <form onSubmit={(e) => e.preventDefault()}>
         <label htmlFor="login">
           Podaj login
