@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SPA-projekcik-kurs/static/css/main.87d390af.css",
+    "main.js": "/SPA-projekcik-kurs/static/js/main.805b3c36.js",
+    "static/media/header1.jpg": "/SPA-projekcik-kurs/static/media/header1.e210d6237c4df53a92ae.jpg",
+    "static/media/header3.jpg": "/SPA-projekcik-kurs/static/media/header3.1b8172a4f8d865e14fe5.jpg",
+    "static/media/header2.jpg": "/SPA-projekcik-kurs/static/media/header2.26d6661b147a114ff1c9.jpg",
+    "index.html": "/SPA-projekcik-kurs/index.html",
+    "main.87d390af.css.map": "/SPA-projekcik-kurs/static/css/main.87d390af.css.map",
+    "main.805b3c36.js.map": "/SPA-projekcik-kurs/static/js/main.805b3c36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87d390af.css",
+    "static/js/main.805b3c36.js"
+  ]
+}
